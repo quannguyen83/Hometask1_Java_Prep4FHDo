@@ -1,0 +1,3 @@
+The volume of the Sun: 1.07869104166666672E17 miles
+The volume of the Earth: 7.316266666666667E10 miles
+The ratio of the volumn of the Sun to the volumn of the Earth: 1474373.5990122466

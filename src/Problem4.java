@@ -35,7 +35,8 @@ public class Problem4 {
 				}
 			}
 		}
+		System.out.println("Alphabetically sorted array of words:");
 		for (String a : arrOfText)
-            System.out.println(a);
+            System.out.println("\t" + a);
 	}
 }
